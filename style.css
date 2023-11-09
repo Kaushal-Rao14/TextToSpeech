@@ -63,9 +63,15 @@
     border-radius: 5px;
     margin:0 10px;
   }
-  #pause{
+  #pause,#resume{
     display: none;
   }
-  #play{
-    display: none;
+ 
+  .btn{
+        background-color: #5f27cd;
+        color:#fff;
+  }
+  .btn i{
+    font-size: 1rem;
+    color:#5f27cd;
   }
